@@ -1,0 +1,9 @@
+owner_id,rep_name,team,rep_region,annual_quota
+REP-01,Alex Chen,Enterprise,North America,1200000
+REP-02,Bianca Rossi,Enterprise,EMEA,1200000
+REP-03,Carlos Mendez,Mid-Market,LATAM,800000
+REP-04,Dana Okafor,Mid-Market,North America,800000
+REP-05,Evan Li,Mid-Market,APAC,800000
+REP-06,Farah Haddad,SMB,EMEA,500000
+REP-07,Grace Park,SMB,North America,500000
+REP-08,Hugo Weber,Enterprise,EMEA,1200000
